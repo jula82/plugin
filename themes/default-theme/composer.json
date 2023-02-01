@@ -1,0 +1,17 @@
+{
+    "name": "acme/default-theme",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Lemisoft",
+            "email": "juladays@gmail.com"
+        }
+    ],
+    "extra": {
+        "sylius-theme": {
+            "title": "Default Theme"
+        }
+    }
+}
+
+
