@@ -7,8 +7,9 @@
     "license": "proprietary",
     "require": {
         "php": "^8.0",
+        "sylius/mailer-bundle": "^1.8 || ^2.0@beta",
         "sylius/sylius": "^1.12",
-        "sylius/mailer-bundle":  "^1.8 || ^2.0@beta",
+        "symfony/runtime": "^6.2",
         "symfony/webpack-encore-bundle": "^1.15"
     },
     "require-dev": {
@@ -46,7 +47,8 @@
         "allow-plugins": {
             "dealerdirect/phpcodesniffer-composer-installer": false,
             "phpstan/extension-installer": true,
-            "symfony/flex": true
+            "symfony/flex": true,
+            "symfony/runtime": true
         }
     },
     "extra": {
