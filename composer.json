@@ -1,5 +1,5 @@
 {
-    "name": "sylius/my-plugin",
+    "name": "acme/default-theme",
     "type": "sylius-plugin",
     "keywords": [
         "sylius",
