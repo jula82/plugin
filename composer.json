@@ -1,6 +1,7 @@
 {
     "name": "acme/default-theme",
     "type": "sylius-plugin",
+    "version": "1.0",
     "keywords": [
         "sylius",
         "sylius-plugin"
