@@ -1,4 +1,5 @@
 {
+    "name": "sylius/my-plugin",
     "type": "sylius-plugin",
     "keywords": [
         "sylius",
